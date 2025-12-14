@@ -6,7 +6,7 @@ Guide étape par étape pour installer l'environnement, vérifier la qualité, l
 
 - Python 3.13 recommandé .
 - Un compte MongoDB et une URI valide.
-- Git (optionnel).
+
 
 ## 1) Installer Python (idéalement 3.13)
 
