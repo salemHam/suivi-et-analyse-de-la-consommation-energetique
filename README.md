@@ -10,7 +10,7 @@ Guide étape par étape pour installer l'environnement, vérifier la qualité, l
 
 ## 1) Installer Python (idéalement 3.13)
 
-- Téléchargez Python pour Windows: https://www.python.org/downloads/windows/
+- Téléchargez Python : https://www.python.org/downloads/
 - Cochez « Add Python to PATH » pendant l'installation.
 - Vérifiez l'installation:
 
