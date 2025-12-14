@@ -52,7 +52,7 @@ créer un fichier env.py et ajouter votre uri mongodb
 db_user_name = "votre_utilisateur"
 db_password = "votre_mot_de_passe"
 uri = f"mongodb+srv://{db_user_name}:{db_password}@<votre-cluster>.mongodb.net/?appName=<VotreApp>"
-```
+
 
 
 ## 5) Vérifier la qualité du code (flake8)
