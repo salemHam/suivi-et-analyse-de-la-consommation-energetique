@@ -82,7 +82,7 @@ Fonctionnement attendu:
 
 - Connexion à MongoDB (message « Pinged your deployment… » si OK).
 - Lecture simulée des capteurs (10 itérations).
-- Détection et affichage des anomalies (rouge).
+- Détection et affichage des anomalies si y'a lieu sinon relancer pour voir (rouge).
 - Sauvegarde des enregistrements dans MongoDB (ID en vert).
 - Sauvegarde de l'historique de facturation càd tous les 3 mois.
 
