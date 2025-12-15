@@ -27,10 +27,10 @@ Depuis le dossier du projet:
 python -m venv .venv
 
 # Activer (PowerShell)
-\.\.venv\Scripts\Activate.ps1
+.venv\Scripts\Activate.ps1
 
 # (CMD)
-\.\.venv\Scripts\activate.bat
+.venv\Scripts\activate.bat
 
 # (Git Bash / linux)
 source .venv/Scripts/activate
