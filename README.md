@@ -1,6 +1,7 @@
 # suivi-et-analyse-de-la-consommation-energetique
 
 Guide étape par étape pour installer l'environnement, vérifier la qualité, lancer les tests et exécuter le script principal.
+pour plus d'info sur les class voir le fichier src/doc.md
 
 ## Prérequis
 
